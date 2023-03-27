@@ -1,0 +1,6 @@
+# data
+/data
+
+# junk
+.DS_Store
+.ipynb_checkpoints
