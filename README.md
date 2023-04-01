@@ -47,11 +47,17 @@ Based on the results of the analysis, my reccomendations are to produce more fil
 ## Next steps and further research
 
 Identify which studios and cast members are associated with the films having the highest ROI. More research should also be done to determine if there is a relationship between ratings and ROI. Are highly rated films also very successful? Or is the audience drawn in by initial impressions such as the genre, director, and film crew, and are others' ratings less important?
+
+## For More Information
+
+See the full analysis in the Jupyter Notebook or review this presentation.
+
+For additional info, contact Lynn Anderson at lalynjay@gmail.com
  
-Repository Structure
+## Repository Structure
 
 ├── data
 ├── images
 ├── README.md
-├── Animal_Shelter_Needs_Presentation.pdf
-└── animal_shelter_needs_analysis.ipynb
+├── Movie_Trends_Analysis_Presentation.pdf
+└── Movie_Trends_Analysis_Presentation.ipynb
