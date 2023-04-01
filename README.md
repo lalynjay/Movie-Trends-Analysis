@@ -31,12 +31,12 @@ The Horror and Mystery genres are clear winners, with Thriller a not so close th
 
 Chris Lofing and Travis Cluff, Sébastien Lifshitz, Adnan A. Shaikh, Chad Zuver, and Chris Stokes also have experience with producing very successful films.
 
-![top_directors](C:\Users\lalyn\Downloads\directors.png)
+![top_directors](https://github.com/lalynjay/Movie-Trends-Analysis/blob/main/directors.png)
 
 Production budget had a negative correlation with ROI.
 The most successful films in terms of ROI were at the low end of the production budget range.
 
-![budget_roi](C:\Users\lalyn\Downloads\roi.png)
+![budget_roi](https://github.com/lalynjay/Movie-Trends-Analysis/blob/main/roi.png)
 
 
 ## Conclusions
