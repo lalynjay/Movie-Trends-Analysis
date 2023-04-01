@@ -27,7 +27,7 @@ Exploratory data analysis to determine the genres, directors, and production bud
 
 The Horror and Mystery genres are clear winners, with Thriller a not so close third. These 7 genres represent the most successful third of all genres from the dataset.
 
-![top_genres](C:\Users\lalyn\Documents\flatiron\materials\Movie-Trends-Analysis\genres.png)
+![top_genres](https://github.com/lalynjay/Movie-Trends-Analysis/blob/main/genres.png)
 
 Chris Lofing and Travis Cluff, Sébastien Lifshitz, Adnan A. Shaikh, Chad Zuver, and Chris Stokes also have experience with producing very successful films.
 
@@ -48,4 +48,10 @@ Based on the results of the analysis, my reccomendations are to produce more fil
 
 Identify which studios and cast members are associated with the films having the highest ROI. More research should also be done to determine if there is a relationship between ratings and ROI. Are highly rated films also very successful? Or is the audience drawn in by initial impressions such as the genre, director, and film crew, and are others' ratings less important?
  
+Repository Structure
 
+├── data
+├── images
+├── README.md
+├── Animal_Shelter_Needs_Presentation.pdf
+└── animal_shelter_needs_analysis.ipynb
