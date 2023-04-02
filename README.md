@@ -57,7 +57,11 @@ For additional info, contact Lynn Anderson at lalynjay@gmail.com
 ## Repository Structure
 
 ├── data
+
 ├── images
+
 ├── README.md
+
 ├── Movie_Trends_Analysis_Presentation.pdf
+
 └── Movie_Trends_Analysis_Presentation.ipynb
