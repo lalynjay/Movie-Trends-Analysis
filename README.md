@@ -27,16 +27,16 @@ Exploratory data analysis to determine the genres, directors, and production bud
 
 The Horror and Mystery genres are clear winners, with Thriller a not so close third. These 7 genres represent the most successful third of all genres from the dataset.
 
-![top_genres](https://github.com/lalynjay/Movie-Trends-Analysis/blob/main/images/genres.png)
+![top_genres]("https://github.com/lalynjay/Movie-Trends-Analysis/blob/main/images/genres.png")
 
 Chris Lofing and Travis Cluff, Sébastien Lifshitz, Adnan A. Shaikh, Chad Zuver, and Chris Stokes also have experience with producing very successful films.
 
-![top_directors](https://github.com/lalynjay/Movie-Trends-Analysis/blob/main/images/directors.png)
+![top_directors]("https://github.com/lalynjay/Movie-Trends-Analysis/blob/main/images/directors.png")
 
 Production budget had a negative correlation with ROI.
 The most successful films in terms of ROI were at the low end of the production budget range.
 
-![budget_roi](https://github.com/lalynjay/Movie-Trends-Analysis/blob/main/images/roi.png)
+![budget_roi]("https://github.com/lalynjay/Movie-Trends-Analysis/blob/main/images/roi.png")
 
 
 ## Conclusions
