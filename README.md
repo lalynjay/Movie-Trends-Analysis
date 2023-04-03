@@ -50,7 +50,7 @@ Identify which studios and cast members are associated with the films having the
 
 ## For More Information
 
-See the full analysis in the Jupyter Notebook[https://github.com/lalynjay/Movie-Trends-Analysis/blob/main/Movie_Trends_Analysis.ipynb] or review this presentation.
+See the full analysis in the [Jupyter Notebook](https://github.com/lalynjay/Movie-Trends-Analysis/blob/main/Movie_Trends_Analysis.ipynb) or review this presentation.
 
 For additional info, contact Lynn Anderson at lalynjay@gmail.com
  
