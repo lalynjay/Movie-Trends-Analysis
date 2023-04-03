@@ -27,21 +27,21 @@ Exploratory data analysis to determine the genres, directors, and production bud
 
 The Horror and Mystery genres are clear winners, with Thriller a not so close third. These 7 genres represent the most successful third of all genres from the dataset.
 
-![top_genres](https://github.com/lalynjay/Movie-Trends-Analysis/blob/main/genres.png)
+![top_genres](https://github.com/lalynjay/Movie-Trends-Analysis/blob/main/images/genres.png)
 
 Chris Lofing and Travis Cluff, Sébastien Lifshitz, Adnan A. Shaikh, Chad Zuver, and Chris Stokes also have experience with producing very successful films.
 
-![top_directors](https://github.com/lalynjay/Movie-Trends-Analysis/blob/main/directors.png)
+![top_directors](https://github.com/lalynjay/Movie-Trends-Analysis/blob/main/images/directors.png)
 
 Production budget had a negative correlation with ROI.
 The most successful films in terms of ROI were at the low end of the production budget range.
 
-![budget_roi](https://github.com/lalynjay/Movie-Trends-Analysis/blob/main/roi.png)
+![budget_roi](https://github.com/lalynjay/Movie-Trends-Analysis/blob/main/images/roi.png)
 
 
 ## Conclusions
 
-Based on the results of the analysis, my reccomendations are to produce more films with a relatively low budget, rather than pouring a substantial amount of financial resources into a single film. Focus on producing content belonging to the most successful genres- Horror, Mystery and Thriller specifically, also include Sport, Biography, Fantasy and Romance. Finally, recruit directors who have a reputation for producing successful films. 
+Based on the results of the analysis, my reccomendations are to produce more films with a relatively low budget, rather than pouring a substantial amount of financial resources into a single film. Emphasize producing content belonging to the most successful genres- Horror, Mystery and Thriller specifically, also include Sport, Biography, Fantasy and Romance. Finally, recruit directors who have a reputation for producing successful films. 
 
 
 ## Next steps and further research
@@ -50,7 +50,7 @@ Identify which studios and cast members are associated with the films having the
 
 ## For More Information
 
-See the full analysis in the Jupyter Notebook or review this presentation.
+See the full analysis in the Jupyter Notebook[https://github.com/lalynjay/Movie-Trends-Analysis/blob/main/Movie_Trends_Analysis.ipynb] or review this presentation.
 
 For additional info, contact Lynn Anderson at lalynjay@gmail.com
  
@@ -64,4 +64,4 @@ For additional info, contact Lynn Anderson at lalynjay@gmail.com
 
 ├── Movie_Trends_Analysis_Presentation.pdf
 
-└── Movie_Trends_Analysis_Presentation.ipynb
+└── Movie_Trends_Analysis.ipynb
