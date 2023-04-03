@@ -29,7 +29,7 @@ The Horror and Mystery genres are clear winners, with Thriller a not so close th
 
 ![top_genres](https://github.com/lalynjay/Movie-Trends-Analysis/blob/main/images/genres.png)
 
-Chris Lofing and Travis Cluff, Sébastien Lifshitz, Adnan A. Shaikh, Chad Zuver, and Chris Stokes also have experience with producing very successful films.
+Chris Lofing Travis Cluff, Sébastien Lifshitz, Adnan A. Shaikh, Chad Zuver, and Chris Stokes have experience with producing very successful films.
 
 ![top_directors](https://github.com/lalynjay/Movie-Trends-Analysis/blob/main/images/directors.png)
 
