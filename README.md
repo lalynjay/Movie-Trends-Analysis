@@ -55,7 +55,7 @@ Further research should be done to identify which studios and cast members are a
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](https://github.com/lalynjay/Movie-Trends-Analysis/blob/main/Movie_Trends_Analysis.ipynb) or review [this presentation]()
+See the full analysis in the [Jupyter Notebook](https://github.com/lalynjay/Movie-Trends-Analysis/blob/main/Movie_Trends_Analysis.ipynb) or review [this presentation](https://github.com/lalynjay/Movie-Trends-Analysis/blob/main/Presentation.pdf)
 
 For additional info, contact Lynn Anderson at lalynjay@gmail.com
  
