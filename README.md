@@ -36,7 +36,7 @@ Chris Lofing Travis Cluff, Sébastien Lifshitz, Adnan A. Shaikh, Chad Zuver, and
 Production budget had a negative correlation with ROI.
 The most successful films in terms of ROI were at the low end of the production budget range.
 
-![budget_roi](https://github.com/lalynjay/Movie-Trends-Analysis/blob/main/images/roi.png)
+![budget_roi](https://github.com/lalynjay/Movie-Trends-Analysis/blob/main/images/roi_.png)
 
 
 ## Conclusions
