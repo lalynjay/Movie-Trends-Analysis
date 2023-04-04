@@ -18,7 +18,7 @@ Microsoft wants to enter the film industry and start producing original video co
 
 ## Data Understanding
 
-Exploratory data analysis of databases from The Numbers, which contains records for top permorming movies based on the domestic and worldwide box office, and from the IMDB database, which contains information for over 80,000 movies. After combining 4 different databases, I had 3,181 records from 2,123 different movies representing 22 genres and 2,204 different directors. 
+Exploratory data analysis of databases from The Numbers, which contains 5,782 records for top permorming movies based on the domestic and worldwide box office, and from the IMDB database, which contains information for over 80,000 movies. After combining 4 different databases, I had 3,181 records from 2,123 different movies representing 22 genres and 2,404 different directors. 
 
 Exploratory data analysis to determine the genres, directors, and production budgets that were associated with successful films, with return on Investment (ROI) used as the success metric.
 
