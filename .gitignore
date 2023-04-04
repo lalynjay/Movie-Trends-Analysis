@@ -1,6 +1,9 @@
 # data
 /data
-
+/zippedData
+zippedData/
+*.db
 # junk
 .DS_Store
 .ipynb_checkpoints
+zippedData
